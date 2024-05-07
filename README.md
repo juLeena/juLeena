@@ -1,4 +1,4 @@
-### Hi, I'm Junha Lee.
+### Hi, I'm Junha.
 
 I'm a Full Stack App Developer Practicer.
 
