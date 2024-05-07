@@ -3,16 +3,20 @@
 I'm a Full Stack App Developer Practicer.
 
 
+
 ## Study
 
 - Busan Science High School (2018 - 2021)
 - Undergraduate in Sogang Univ. (2021 - )
+
+
 
 ## Activity
 
 - Full Stack App Developer of [**MoodMemo**](https://apps.apple.com/kr/app/%EB%AC%B4%EB%93%9C%EB%A9%94%EB%AA%A8/id6467786547) (2023 - )
 - Prompt Engineer of [**MoodMemo**](https://apps.apple.com/kr/app/%EB%AC%B4%EB%93%9C%EB%A9%94%EB%AA%A8/id6467786547) (2023 - )
 - FrontEnd App Developer of [**Dlock**](https://apps.apple.com/kr/app/%EB%93%A4%EB%9D%BD-dlock/id6475640224) (2024 - )
+
 
 
 ## Tech Stack
@@ -28,9 +32,12 @@ I'm a Full Stack App Developer Practicer.
 ![flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 
+
 ## Problem Solving
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=imearth01)](https://solved.ac/imearth01)
+
+
 
 ## Github Stat
 
