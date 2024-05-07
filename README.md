@@ -8,10 +8,11 @@ I'm a Full Stack App Developer Practicer.
 
 - Busan Science High School (2018 - 2021)
 - Undergraduate in Sogang Univ. (2021 - )
+- Software Maestro 14th (2023)
 
 
 
-## Activity
+## Project
 
 - Full Stack App Developer of [**MoodMemo**](https://apps.apple.com/kr/app/%EB%AC%B4%EB%93%9C%EB%A9%94%EB%AA%A8/id6467786547) (2023 - )
 - Prompt Engineer of [**MoodMemo**](https://apps.apple.com/kr/app/%EB%AC%B4%EB%93%9C%EB%A9%94%EB%AA%A8/id6467786547) (2023 - )
