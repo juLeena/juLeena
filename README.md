@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## Tech Stack
-![Python](https://img.shields.io/badge/python-%#3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-#3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=imearth01)](https://solved.ac/imearth01)
