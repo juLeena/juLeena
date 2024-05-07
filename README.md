@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Tech Stack
+- ![Kotlin](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=imearth01)](https://solved.ac/imearth01)
 
 ![juleena](https://github-readme-stats.vercel.app/api?username=juleena&show_icons=true&theme=great-gatsby)
