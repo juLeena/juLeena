@@ -10,8 +10,9 @@ I'm a Full Stack App Developer Practicer.
 
 ## Activity
 
-- Full Stack App Developer, Prompt Engineer of **MoodMemo** (2023 - )
-- FrontEnd App Developer of **Dlock** (2024 - )
+- Full Stack App Developer of [**MoodMemo**](https://apps.apple.com/kr/app/%EB%AC%B4%EB%93%9C%EB%A9%94%EB%AA%A8/id6467786547) (2023 - )
+- Prompt Engineer of [**MoodMemo**](https://apps.apple.com/kr/app/%EB%AC%B4%EB%93%9C%EB%A9%94%EB%AA%A8/id6467786547) (2023 - )
+- FrontEnd App Developer of [**Dlock**](https://apps.apple.com/kr/app/%EB%93%A4%EB%9D%BD-dlock/id6475640224) (2024 - )
 
 
 ## Tech Stack
