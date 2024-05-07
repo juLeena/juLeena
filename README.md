@@ -1,26 +1,18 @@
-### Hi, I'm juleena.
+### Hi, I'm Junha Lee.
 
-## Now, I am a/an...
+I'm a Full Stack App Developer Practicer.
 
-💻 Full Stack App Developer Practicer
 
-📚 Undergraduate in Sogang Univ. (2021 - )
+## Study
 
-⚽️ Gunners(Fan of Arsenal FC) (2008 - )
-<!--
-**juLeena/juLeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Busan Science High School (2018 - 2021)
+- Undergraduate in Sogang Univ. (2021 - )
 
-Here are some ideas to get you started:
+## Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full Stack App Developer, Prompt Engineer of **MoodMemo** (2023 - )
+- FrontEnd App Developer of **Dlock** (2024 - )
+
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -35,12 +27,10 @@ Here are some ideas to get you started:
 ![flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 
-
-
-
-
-
+## Problem Solving
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=imearth01)](https://solved.ac/imearth01)
+
+## Github Stat
 
 ![juleena](https://github-readme-stats.vercel.app/api?username=juleena&show_icons=true&theme=great-gatsby)
