@@ -6,8 +6,8 @@ I'm a Full Stack App Developer Practicer.
 
 ## Study
 
-- Busan Science High School (2018 - 2021)
-- Undergraduate in Sogang Univ. (2021 - )
+- Busan Science High School 16th (2018 - 2021)
+- Sogang Univ. (2021 - )
 - Software Maestro 14th (2023)
 
 
