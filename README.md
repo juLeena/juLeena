@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=imearth01)](https://solved.ac/imearth01)
 
-[![CodeForces Profile](https://cf.leed.at?id={juleena})](https://codeforces.com/profile/{juleena})
-
 ![juleena](https://github-readme-stats.vercel.app/api?username=juleena&show_icons=true&theme=great-gatsby)
