@@ -1,6 +1,6 @@
 ### Hi, I'm Junha.
 
-I'm a Full Stack App Developer Practicer.
+I'm Full Stack App Developer Practicer.
 
 
 
