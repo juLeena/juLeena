@@ -45,9 +45,3 @@ I'm Full Stack App Developer Practicer.
 ## Problem Solving
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=imearth01)](https://solved.ac/imearth01)
-
-
-
-## Github Stat
-
-![juleena](https://github-readme-stats.vercel.app/api?username=juleena&show_icons=true&theme=great-gatsby)
