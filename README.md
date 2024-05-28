@@ -19,12 +19,16 @@ I'm Full Stack App Developer Practicer.
 - **Software Maestro 14th** (2023)
 
 
+## Business
+
+- spinAI (2024.06 - )
+
 
 ## Project
 
 - Full Stack App Developer of [**MoodMemo**](https://apps.apple.com/kr/app/%EB%AC%B4%EB%93%9C%EB%A9%94%EB%AA%A8/id6467786547) (2023 - )
 - Prompt Engineer of [**MoodMemo**](https://apps.apple.com/kr/app/%EB%AC%B4%EB%93%9C%EB%A9%94%EB%AA%A8/id6467786547) (2023 - )
-- FrontEnd App Developer of [**Dlock**](https://apps.apple.com/kr/app/%EB%93%A4%EB%9D%BD-dlock/id6475640224) (2024 - )
+- FrontEnd App Developer of [**Dlock**](https://apps.apple.com/kr/app/%EB%93%A4%EB%9D%BD-dlock/id6475640224) (2024.02 - 2024.05)
 
 
 
