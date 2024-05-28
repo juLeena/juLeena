@@ -21,7 +21,7 @@ I'm Full Stack App Developer Practicer.
 
 ## Business
 
-- spinAI (2024.06 - )
+- [spinAI](http://spinai1.dwebs1.kr/) (2024.06 - )
 
 
 ## Project
