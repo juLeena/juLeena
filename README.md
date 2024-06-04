@@ -16,7 +16,7 @@ I'm Full Stack App Developer Practicer.
 - **Sogang ICPC Team**(Algorithm Society of Sogang Univ.) (2021 - )
 - **Release**(Project Society of Sogang Univ.) (2021 - )
 - **CNU**(Web Society of Sogang Univ.) (2022 - )
-- **Software Maestro 14th** (2023)
+- **Software Maestro 14th** (2023.04 - 2023.11)
 
 
 ## Business
