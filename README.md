@@ -21,7 +21,8 @@ I'm Full Stack App Developer Practicer.
 
 ## Business
 
-- [spinAI](http://spinai1.dwebs1.kr/) (2024.06 - )
+- DopamineDefense (2024.02 - 2024.05)
+- [SpinAI](http://spinai1.dwebs1.kr/) (2024.06 - )
 
 
 ## Project
